@@ -24,7 +24,7 @@
 
 , "dependencies":
   { "request":    "2.x.x"
-  , "sax":        "0.3.x"
+  , "sax":        "Newspark-UTN/sax-js#lanacion-fix"
   , "underscore": "1.x.x"
   }
 
